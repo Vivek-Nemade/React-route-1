@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Todo 1",
+      "isComplete": true
+    },
+    {
+      "id": 2,
+      "value": "Todo 1",
+      "isComplete": true
+    }
+  ]
+}
